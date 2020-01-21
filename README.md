@@ -1,24 +1,24 @@
 <h1 align="center">
-    RadarDev
+    DevRadar
     <br>
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/radardev.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/devradar.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/radardev.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/devradar.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/radardev.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/devradar.svg">
   
-  <a href="https://github.com/melquisedecfelipe/radardev/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/radardev.svg">
+  <a href="https://github.com/melquisedecfelipe/devradar/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/devradar.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/radardev/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/radardev.svg">
+  <a href="https://github.com/melquisedecfelipe/devradar/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/devradar.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/radardev.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/devradar.svg">
 </p>
 
 <p align="center">
@@ -42,17 +42,17 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/melquisedecfelipe/radardev
+$ git clone https://github.com/melquisedecfelipe/devradar
 
 # Go into the repository
-$ cd radardev
+$ cd devradar
 
 # Go into the backend and install dependencies
 $ cd backend
 $ npm i
 
 # Create .env file and add database url
-$ echo "MONGO_URL='mongodb+srv://<username>:<password>@cluster0-nejwy.mongodb.net/radardev?retryWrites=true&w=majority'" >> .env
+$ echo "MONGO_URL='mongodb+srv://<username>:<password>@cluster0-nejwy.mongodb.net/devradar?retryWrites=true&w=majority'" >> .env
 
 # Run backend
 $ npm run dev
@@ -60,7 +60,7 @@ $ npm run dev
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/radardev/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/devradar/blob/master/LICENSE) for more information.
 
 ---
 
