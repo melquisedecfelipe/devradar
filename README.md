@@ -33,7 +33,9 @@ This project was developed with the following technologies:
 
 Backend
 
+- [Axios](https://github.com/axios/axios)
 - [Express](https://expressjs.com/)
+- [Mongoose](https://mongoosejs.com/mul)
 - [Nodemon](https://nodemon.io/)
 
 ## :information_source: How To Use
