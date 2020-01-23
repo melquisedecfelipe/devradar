@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1>
     DevRadar
     <br>
 </h1>
 
-<p align="center">
+<p>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/devradar.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/devradar.svg">
@@ -21,7 +21,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/devradar.svg">
 </p>
 
-<p align="center">
+<p>
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
