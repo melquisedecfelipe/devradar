@@ -38,6 +38,22 @@ Backend
 - [Mongoose](https://mongoosejs.com/mul)
 - [Nodemon](https://nodemon.io/)
 
+Frontend
+
+- [Axios](https://github.com/axios/axios)
+- [React](https://reactjs.org/)
+- [Socket.io client](https://github.com/socketio/socket.io-client)
+
+Mobile
+
+- [Axios](https://github.com/axios/axios)
+- [Expo](https://expo.io/)
+- [Expo Location](https://docs.expo.io/versions/latest/sdk/location/)
+- [React native](https://facebook.github.io/react-native/)
+- [React native maps](https://github.com/react-native-community/react-native-maps)
+- [React navigation](https://reactnavigation.org/)
+- [Socket.io client](https://github.com/socketio/socket.io-client)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
@@ -58,6 +74,20 @@ $ echo "MONGO_URL='mongodb+srv://<username>:<password>@cluster0-nejwy.mongodb.ne
 
 # Run backend
 $ npm run dev
+
+# Go into the frontend and install dependencies
+$ cd ../frontend
+$ npm i
+
+# Run frontend
+$ npm start
+
+# Go into the mobile and install dependencies
+$ cd ../mobile
+$ npm i
+
+# Run mobile
+$ expo start
 ```
 
 ## :memo: License
