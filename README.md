@@ -1,15 +1,15 @@
-<h1>
-    DevRadar
+<h1 align="center">
+    <img alt="DevRadar" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1582287543/download_jmj1ng.png" />
     <br>
 </h1>
 
-<p>
+<p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/devradar.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/devradar.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/devradar.svg">
-  
+
   <a href="https://github.com/melquisedecfelipe/devradar/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/devradar.svg">
   </a>
@@ -21,7 +21,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/devradar.svg">
 </p>
 
-<p>
+<p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
