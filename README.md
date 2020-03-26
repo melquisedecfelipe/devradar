@@ -1,6 +1,5 @@
 <h1 align="center">
     <img alt="DevRadar" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1582287543/download_jmj1ng.png" />
-    <br>
 </h1>
 
 <p align="center">
