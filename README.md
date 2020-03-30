@@ -47,7 +47,7 @@ Mobile
 
 - [Axios](https://github.com/axios/axios)
 - [Expo](https://expo.io/)
-- [Expo Location](https://docs.expo.io/versions/latest/sdk/location/)
+- [Expo location](https://docs.expo.io/versions/latest/sdk/location/)
 - [React native](https://facebook.github.io/react-native/)
 - [React native maps](https://github.com/react-native-community/react-native-maps)
 - [React navigation](https://reactnavigation.org/)
